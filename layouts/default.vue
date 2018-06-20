@@ -18,8 +18,8 @@
           <li >  
                 <a><nuxt-link to="/about"> About </nuxt-link></a></li>
                 
-          <li ><nuxt-link to="/contact">
-                 <a>contact</a></nuxt-link></li>       
+          <li ><nuxt-link to="/project">
+                 <a>Project</a></nuxt-link></li>       
         </ul>
       </div>
     </nav>
