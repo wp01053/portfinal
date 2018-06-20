@@ -33,8 +33,8 @@
      
     </nav>    
     <nuxt/>    
-    <footer class="footer has-text-right">
-        <br/><br/><br/><br/><br/><br/>
+    <footer class="footer has-text-right ">
+        <br/><br/><br/>
       <p>2018 Cloud service projects Jung Jae Yeoup. </p>
     </footer>
   </div>

@@ -19,13 +19,31 @@
       </div>
     </div>
     <div class="content">
-       <a>I am 25 years old and I can do jsp, arduino, android studio.</a>
+       I am 25 years old and I can do jsp, arduino, android studio.
       <br>
       <a>#css</a>  <a> #jsp </a>  <a> #arduino</a> <a> #android studio </a> 
       <br>
       <time datetime="2018-6-21">12:00 PM - 21 June 2018</time>
+      
     </div>
+    
   </div>
 </div>
+<br><br><br><br><br>
+ <div class="content">
+  <p class="title  has-text-centered">My Ability</p> 
+ Web Design
+<progress class="progress" value="40" max="100">40%</progress>
+ Android studio
+<progress class="progress" value="50" max="100">50%</progress>
+ Node.js
+<progress class="progress" value="60" max="100">60%</progress>
+ JAVA 
+<progress class="progress" value="70" max="100">70%</progress>
+ <a>Arduino</a>
+<progress class="progress is-danger" value="90" max="100">90%</progress>
+
+ </div>
          </section> 
+         
      </template>      

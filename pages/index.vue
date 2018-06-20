@@ -1,7 +1,7 @@
 <template>
-  <section class="section  ">
-    <div class="hero" >
-      <div class="hero-body">
+  <section class="section notification ">
+    <div class="hero notification" >
+      <div class="hero-body ">
         <div class="container">
           <h2 class="subtitle has-text-centered ">안녕하세요!</h2>
           <br/>
